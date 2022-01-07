@@ -8,7 +8,7 @@ Entire Youtube Series ↙️
 
 The Code of this repo refers to this page ↙️↙️↙️
 
-[![Riverpod Listen Tutorial](https://img.youtube.com/vi/2kP-2t3_taE/0.jpg)](https://youtu.be/Eg3ZIT-_rcc)
+[![Riverpod Listen Tutorial](https://img.youtube.com/vi/Eg3ZIT-_rcc/0.jpg)](https://youtu.be/Eg3ZIT-_rcc)
 
 ## Description
 
